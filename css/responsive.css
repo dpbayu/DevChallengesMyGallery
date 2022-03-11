@@ -1,0 +1,9 @@
+@media only screen and (max-width: 320px) {
+    .box img {
+        height: 50%;
+        width: 50%;
+    }
+    .box .dataBox .textBox {
+        margin: 0 10px;
+    }
+}
