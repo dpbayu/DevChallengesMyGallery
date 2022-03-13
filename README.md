@@ -37,7 +37,8 @@
 
 ## Overview
 
-![Screenshot 2022-03-11 230346](https://user-images.githubusercontent.com/74140729/157903789-dc0d07cc-0c19-49aa-b45e-69e22d974304.png)
+![My-Gallery](https://user-images.githubusercontent.com/74140729/158057932-0147d1bf-74f5-4098-9c93-d4392e260f69.png)
+![My-Gallery (1)](https://user-images.githubusercontent.com/74140729/158057935-5c578bf4-ebd5-45ab-8de1-7160ada920ed.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
